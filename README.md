@@ -1,6 +1,6 @@
 ## 📂 Deliverables & Project Artifacts
 
-All comprehensive project artifacts, including the underlying codebase, implementation reports, and live demonstration screencasts, are hosted and accessible via the following link:
+Implementation reports, and live demonstration screencasts accessible via the following link:
 👉 **[Access the Full Project Repository via Google Drive](https://drive.google.com/drive/folders/1NyVitLN8_N_IztialbqUIZ3nomCIZ69q?usp=sharing)**
 
 ### 📋 Main File Directory & Guide
